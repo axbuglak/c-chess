@@ -1,1 +1,1 @@
-# c-chess
+# c-chess on c++
